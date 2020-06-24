@@ -21,4 +21,9 @@ The code will work in a few steps and generate a new text file with the updated 
 
 ### Step 1
 Choose the right .txt file and the path to the pictures.
+This happens at the bottom of the code.
+
+
+<img src="images/step_0.JPG" width="300">
+
 
