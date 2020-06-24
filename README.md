@@ -53,8 +53,13 @@ For example: If the first click was on the center of a box and the second click 
 
 If you change two boxes it is possible to type 0,1,2,3. Or you can also type "goed" and the program will change everything automatically.
 
-### Step 4
-Now it is possible to add some boxes if it's needed to add more boxes. This will be done 
+In a last step it is possible to add new boxes then needed.
+
+### Result
+
+A .txt file with all the boxes in the correct location and the size of the boxes added to each line in the .txt file.
+
+<img src="images/stap_2.JPG" width="300" >
 
 
 
