@@ -15,7 +15,7 @@ Is used to:
 
 The code will need a .txt file ordered like the image below. So it needs a x-coordinate, y-coordinate and name of the image.
 
-<img src="images/lijst.JPG" width="500">
+<img src="images/lijst.JPG" width="500" >
 
 The code will work in a few steps and generate a new text file with the updated bounding boxes and the size of the boxes.
 
@@ -24,6 +24,6 @@ Choose the right .txt file and the path to the pictures.
 This happens at the bottom of the code.
 
 
-<img src="images/step_0.JPG" width="300">
+<img src="images/stap_0.JPG" width="300" >
 
 
