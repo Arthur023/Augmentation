@@ -67,7 +67,9 @@ A .txt file with all the boxes in the correct location and the size of the boxes
 
 Later a Faster R-CNN network is used to find the location of the stomata. The goal of this network is to work good on different species. For this to work it is needed to have about the same amount of data for each species. We decided to generate 200 stomata for each species, this number can be changed in the code.
 
+The code will generate a .txt file that will be used in the Faster R-CNN network. It will generate images of size 600x800. And it will make sure that each spicies has a set amound of stomata.
 
+It is possible to generate normalised data as well as training data. The normalised data will be used to test the network. When generating the training data an extra augmentation is added to the normalised data. This augmentation will make the training data more robust so the network will be better in detecting stomata on differend spicies.
 
 
 
