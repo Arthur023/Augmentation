@@ -24,6 +24,23 @@ Choose the right .txt file and the path to the pictures.
 This happens at the bottom of the code.
 
 
-<img src="images/stap_0.JPG" width="300" >
+<img src="images/stap_0.JPG" width="500" >
+
+
+### Step 2
+
+Run the code. The code will first show the user a picture with bounding boxes of differend sizes. This makes it possible for the user to estimate how large the correct boxes should be. The boxes are of size: 60, 120 and 240.
+
+<img src="images/stap_1JPG.JPG" width="500" >
+
+### Step 3
+Here some input of the user is needed.
+
+After the user is asked to give the size he wants to use for the picture.
+
+<img src="images/stap_2.JPG" width="500" >
+
+
+
 
 
