@@ -8,6 +8,8 @@ The .txt file will contain information on the bounding boxes of the pictures.
 
 ## Count_click.py
 
+This python script is a small extra. The main script used for augmentation can be found in the "augmentatie.py" code.
+
 Is used to: 
 * add bounding boxes
 * move bounding boxes
@@ -60,6 +62,11 @@ In a last step it is possible to add new boxes then needed.
 A .txt file with all the boxes in the correct location and the size of the boxes added to each line in the .txt file.
 
 <img src="images/na_count_click.JPG" width="500" >
+
+## Augmentatie.py
+
+Later a Faster R-CNN network is used to find the location of the stomata. The goal of this network is to work good on different species. For this to work it is needed to have about the same amount of data for each species. We decided to generate 200 stomata for each species, this number can be changed in the code.
+
 
 
 
