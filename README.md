@@ -36,10 +36,25 @@ Run the code. The code will first show the user a picture with bounding boxes of
 ### Step 3
 Here some input of the user is needed.
 
-After the user is asked to give the size he wants to use for the picture.
+First the user is asked to give the size he wants to use for the picture.
 
-<img src="images/stap_2.JPG" width="500" >
+<img src="images/stap_2.JPG" width="300" >
 
+After this the full image is shown again and the user is asked if he wants to change the location of some of the boxes.
+If that is the case the user kan type: sommige
+
+Otherwise the user can type: ok
+
+If the user wants to change some locations an image will apear of all the boxes. To change the location you can click on the center of the box and then to the new location. This can be done for multiple boxes at the same time. 
+
+After this you have to close the window and type the numbers of the locations you want to change.
+
+For example: If the first click was on the center of a box and the second click was on the new location then you type 0,1
+
+If you change two boxes it is possible to type 0,1,2,3. Or you can also type "goed" and the program will change everything automatically.
+
+### Step 4
+Now it is possible to add some boxes if it's needed to add more boxes. This will be done 
 
 
 
