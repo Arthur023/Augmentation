@@ -9,4 +9,9 @@ The .txt file will contain information on the bounding boxes of the pictures.
 ## Count_click.py
 
 Is used to: 
-add bounding boxes
+* add bounding boxes
+* remove bounding boxes
+* move bounding boxes
+* add size of bounding boxes
+
+<img src="images/lijst.JPG" width="500">
