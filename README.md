@@ -59,7 +59,7 @@ In a last step it is possible to add new boxes then needed.
 
 A .txt file with all the boxes in the correct location and the size of the boxes added to each line in the .txt file.
 
-<img src="images/stap_2.JPG" width="300" >
+<img src="images/na_count_click.JPG" width="500" >
 
 
 
